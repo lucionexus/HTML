@@ -1,0 +1,28 @@
+.heading {
+  border: 1px solid black;
+}
+
+#profile {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+#film {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+#contact {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+#head {
+  text-align: center;
+}
